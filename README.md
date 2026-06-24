@@ -16,8 +16,8 @@ I'm a passionate Computer Science student with a strong interest in **Full-Stack
 - 🌐 Passionate about creating scalable and user-friendly web applications.
 - 🎯 Aspiring Software Engineer specializing in Full-Stack Development, AI, and Cybersecurity.
 
-### 🛠 Tech Stack
-## 🌐 Socials:
+
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/iam.mohit10?igsh=MTQ3Ynh5cW50cTcxdA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohit-thakur-1975b22b8/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thakurmohit.0102@gmail.com) 
 
 #### 💻 Tech Stack:
